@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  width: 600px;
+  margin: 40px auto;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+input {
+  padding: 8px 20px;
+  border-radius: 6px;
+  border: 1px solid;
+}
+
+button {
+  background-color: transparent;
+  color: black;
+  border: 1px solid lightgray;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 5px 5px;
+  margin: 2px 5px;
+}
